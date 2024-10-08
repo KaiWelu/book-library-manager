@@ -218,3 +218,7 @@ A simple Java application that allows users to manage a collection of books. Use
    - **Pagination**: If the book list becomes large, implement pagination.
    - **Sorting**: Allow sorting by columns (e.g., by title or author).
    - **Export/Import**: Enable export/import of the book list to/from CSV.
+
+### Links
+
+[Documentation & Source Code](https://github.com/KaiWelu/book-library-manager)
